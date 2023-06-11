@@ -35,7 +35,7 @@ class HomePage extends StatelessWidget {
               action: () => selecionarNivel(Modo.normal, context),
             ),
             StartButton(
-              title: 'Modo Round 6',
+              title: 'Modo Brogo',
               color: BrogoTheme.pink,
               action: () => selecionarNivel(Modo.Brogo, context),
             ),
